@@ -19,6 +19,8 @@ namespace WpfApp1Test
         public MainWindow()
         {
             InitializeComponent();
+
+            // Hi Bander
         }
     }
 }
