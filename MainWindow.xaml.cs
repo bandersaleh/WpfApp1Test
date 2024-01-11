@@ -20,7 +20,6 @@ namespace WpfApp1Test
         {
             InitializeComponent();
 
-            // Hi Bander
         }
     }
 }
